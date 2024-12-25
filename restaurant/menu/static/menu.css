@@ -1,0 +1,194 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+body{
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+header{
+    background-color: #333;
+    color: #fff;
+    padding: 1em 0;
+    text-align: center;
+}
+header h1{
+    font-size: 50px;
+    text-align: center;
+}
+.home-section{
+    background-image: url('https://t4.ftcdn.net/jpg/02/78/69/37/360_F_278693728_O7t0fe2oDwwucHisBR1i8UhVxE5N229G.jpg');
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+    height: 100vh;
+    justify-content: center;
+    display: flex;
+}
+.home-section h2{
+    font-size: 3rem;
+    text-align: center;
+    align-items: center;
+}
+.home-section p{
+    font-size: 1.2rem;
+    margin: 1em 0;
+    text-align: center;
+    align-items: center;
+}
+ul{
+    list-style: none;
+    text-align: center;
+    word-spacing: 2em;
+}
+ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+h2{
+    align-items: center;
+    text-align: center;
+}
+p{
+    align-items: center;
+    text-align: center;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#about{
+    background-color: #333;
+    color: #fff;
+    padding: 1em 0;
+    text-align: center;
+    align-items: center;
+}
+.about-section{
+    background-image: url('https://t4.ftcdn.net/jpg/02/78/69/37/360_F_278693728_O7t0fe2oDwwucHisBR1i8UhVxE5N229G.jpg');
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    text-align: justify;
+    color: #fff;
+    font-size: 25px;
+    height: 100vh;
+    word-spacing: 0.7em;
+    padding: 50px;
+}
+#contact{
+    background-color: #333;
+    color: #fff;
+    align-items: center;
+    text-align: center;
+    padding: 1em 0;
+}
+.contact-section{
+    background-image: url('https://t4.ftcdn.net/jpg/02/78/69/37/360_F_278693728_O7t0fe2oDwwucHisBR1i8UhVxE5N229G.jpg');
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+    height: 100vh;
+    font-size: 20px;
+    font-family: cursive;
+    word-spacing: 0.7em;
+    padding: 50px;
+}
+#menu{
+    background-color: #333;
+    color: #fff;
+    padding: 1em 0;
+    text-align: center;
+    align-items: center;
+}
+.menu-section{
+    background-image: url('https://t4.ftcdn.net/jpg/02/78/69/37/360_F_278693728_O7t0fe2oDwwucHisBR1i8UhVxE5N229G.jpg');
+    background-position: center;
+    background-size: cover;
+    color: #fff;
+    size: 20px;
+    padding: 40px;
+    align-items: center;
+    text-align: center;
+}
+.menu-section1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.menu-section1 div{
+    margin: 30px;
+    align-items: center;
+    text-align: center;
+}
+.menu-section2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.menu-section2 div{
+    margin: 30px;
+    align-items: center;
+    text-align: center;
+}
+#veg{
+    text-decoration: underline;
+    font-style: bold;
+    font-size: 40px;
+    background-color: #ff6347;
+}
+#nonveg{
+    text-decoration: underline;
+    font-size: 40px;
+    font-style: bold;
+    background-color: #ff6347;
+}
+.admin-section{
+    background-image: url('https://t4.ftcdn.net/jpg/02/78/69/37/360_F_278693728_O7t0fe2oDwwucHisBR1i8UhVxE5N229G.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    color: #fff;
+    size: 20px;
+    padding: 40px;
+    align-items: center;
+    text-align: center;
+}
+.admin-section1{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.admin-section div{
+    text-align: center;
+    align-items: center;
+    margin: 30px;
+}
+#chef{
+    font-size: bold;
+    text-decoration: underline;
+    font-size: 40px;
+}
+footer{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em o;
+}
+.button{
+    background-color: #ff6347;
+    color: #fff;
+    padding: 1em 2em;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
